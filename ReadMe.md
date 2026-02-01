@@ -12,8 +12,8 @@ Mungkin ga ada gunanya kamu mampir ke sini 🤡
 ![](https://nirzak-streak-stats.vercel.app/?user=erlandi-main-api&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erlandi-main-api&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=erlandi-main-api&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Hobby
+[![genshin impact](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxf5vH70yoqIUxeRiXbLO_G4J5mHD7i37j4_KPD0t9kQ&s=10)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=erlandi-main-api&icon=5&color=0)](https://visitcount.itsvg.in)
