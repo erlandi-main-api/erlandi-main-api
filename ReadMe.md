@@ -176,26 +176,49 @@ print(f"[+] Mindset: {me.mindset}")
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=erlandi-main-api&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlandi-main-api&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+<a href="https://github.com/erlandi-main-api">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlandi-main-api&theme=github_dark" />
+</a>
 
 </div>
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=erlandi-main-api&theme=chartreuse-dark&hide_border=true&fire=00FF41&ring=00AA00&currStreakLabel=00FF41)
+<a href="https://github.com/erlandi-main-api">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erlandi-main-api&theme=github_dark" />
+</a>
+<a href="https://github.com/erlandi-main-api">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erlandi-main-api&theme=github_dark" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=erlandi-main-api&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/erlandi-main-api">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erlandi-main-api&theme=github_dark" />
+</a>
+<a href="https://github.com/erlandi-main-api">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erlandi-main-api&theme=github_dark&utcOffset=7" />
+</a>
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erlandi-main-api&theme=react-dark&bg_color=0d1117&color=00FF41&line=00AA00&point=00FF41&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=erlandi-main-api&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00AA00&fire=00FF41&currStreakLabel=00FF41&sideLabels=888888&dates=888888)
+
+</div>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=erlandi-main-api&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erlandi-main-api&bg_color=0d1117&color=00FF41&line=00AA00&point=00FF41&area=true&area_color=003300&hide_border=true)
 
 </div>
 
