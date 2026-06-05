@@ -206,13 +206,7 @@ print(f"[+] Mindset: {me.mindset}")
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=erlandi-main-api&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00AA00&fire=00FF41&currStreakLabel=00FF41&sideLabels=888888&dates=888888)
-
-</div>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=erlandi-main-api&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-trophies.vercel.app/?username=erlandi-main-api&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github-trophies.vercel.app)
 
 </div>
 
@@ -242,8 +236,6 @@ print(f"[+] Mindset: {me.mindset}")
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF41&height=120&section=footer&animation=fadeIn" />
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=erlandi-main-api&icon=9&color=6)](https://visitcount.itsvg.in)
-&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=erlandi-main-api&color=00FF41&style=flat&label=Profile+Views)
 
 ```
