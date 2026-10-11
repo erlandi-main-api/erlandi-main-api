@@ -312,13 +312,13 @@ me = Erlandi()
 
 <p align="center">
   <a href="https://github.com/erlandi-main-api">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=erlandi-main-api&bg_color=0d1117&color=00FF41&line=00AA00&point=00FF41&area=true&area_color=003300&hide_border=true&custom_title=Contribution%20Graph" />
+    <img src="https://github-sprout.vercel.app/api/contributions?username=erlandi-main-api&type=activity&bg=0d1117&text=ffffff&show_border=false" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/erlandi-main-api">
-    <img src="https://github-contributor-stats.vercel.app/api?username=erlandi-main-api&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00FF41" />
+    <img src="https://github-sprout.vercel.app/api/contributions?username=erlandi-main-api&type=stats&bg=0d1117&text=ffffff&show_border=false" />
   </a>
 </p>
 
@@ -346,7 +346,7 @@ me = Erlandi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,10&height=120&section=footer&animation=fadeIn" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=erlandi-main-api&color=00FF41&style=flat&label=Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=erlandi-main-api&color=00FF41&style=flat&label=Profile+Views)
 
 ```
 ┌───────────────────────────────────────────────────────────────┐
