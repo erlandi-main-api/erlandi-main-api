@@ -171,7 +171,7 @@ me = Erlandi()
   <br /><sub>Multi-agent orchestration<br/>Tool-augmented LLMs<br/>Self-healing systems</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/48/automation.png" width="48" />
+  <img src="https://img.icons8.com/fluency/48/workflow.png" width="48" />
   <br /><strong>Automation</strong>
   <br /><sub>Workflow engines<br/>CI/CD pipelines<br/>Web scraping at scale</sub>
 </td>
@@ -198,7 +198,7 @@ me = Erlandi()
   <br /><sub>REST + WebSocket<br/>Microservices<br/>Rate limiting & auth</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/fluency/48/cloud-network.png" width="48" />
+  <img src="https://img.icons8.com/fluency/48/cloud-connection.png" width="48" />
   <br /><strong>Infrastructure</strong>
   <br /><sub>Docker + VPS<br/>Cloudflare + Nginx<br/>Zero-downtime deploys</sub>
 </td>
