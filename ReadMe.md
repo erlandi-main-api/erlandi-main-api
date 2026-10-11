@@ -25,6 +25,14 @@
   <a href="https://openrouter.ai"><img src="https://img.shields.io/badge/OpenRouter-333333?style=for-the-badge&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <a href="https://ai.meta.com"><img src="https://img.shields.io/badge/Muse_Spark_1.3-0467DF?style=for-the-badge&logo=meta&logoColor=white" /></a>
+  <a href="https://www.mi.com"><img src="https://img.shields.io/badge/MiMo_V2.6-FF6900?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.minimax.io"><img src="https://img.shields.io/badge/MiniMax_M3.1-00D2FF?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.moonshot.ai"><img src="https://img.shields.io/badge/Kimi_K3-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://z.ai"><img src="https://img.shields.io/badge/GLM_5.3-3B82F6?style=for-the-badge&logoColor=white" /></a>
+</p>
+
 <br />
 
 <table align="center">
@@ -86,7 +94,9 @@ class Erlandi:
     def stack(self):
         return {
             "llms":     ["Claude Opus 5.5", "GPT-6", "DeepSeek V4.1", "Gemini 4",
-                         "Llama 4", "Mistral Large 4", "Grok 4.7", "Qwen 3.8 Max"],
+                         "Llama 4", "Mistral Large 4", "Grok 4.7", "Qwen 3.8 Max",
+                         "Muse Spark 1.3", "MiMo V2.6", "MiniMax M3.1",
+                         "Kimi K3", "GLM 5.3"],
             "agents":   ["LangChain", "CrewAI", "AutoGen", "Claude Code SDK",
                          "Dify", "Flowise", "n8n", "MCP"],
             "backend":  ["FastAPI", "Node.js", "Go", "PostgreSQL", "Redis"],
