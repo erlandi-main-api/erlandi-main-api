@@ -54,7 +54,7 @@
   <br /><strong>React</strong>
 </td>
 <td align="center" width="90">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" />
+  <img src="./assets/nextjs-icon.svg" alt="Next.js" width="55" height="55" />
   <br /><strong>Next.js</strong>
 </td>
 <td align="center" width="90">
