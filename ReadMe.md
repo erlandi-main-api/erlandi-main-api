@@ -9,17 +9,17 @@
 </div>
 
 <p align="center">
-  <a href="https://anthropic.com"><img src="https://img.shields.io/badge/Claude_Opus_4.7-000000?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
-  <a href="https://openai.com"><img src="https://img.shields.io/badge/GPT_4o-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href="https://deepseek.com"><img src="https://img.shields.io/badge/DeepSeek_V3-4B6BFB?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Gemini_2.5-8E75B2?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://mistral.ai"><img src="https://img.shields.io/badge/Mistral_Large-FF6B00?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://anthropic.com"><img src="https://img.shields.io/badge/Claude_Opus_5.5-000000?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
+  <a href="https://openai.com"><img src="https://img.shields.io/badge/GPT_6-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://deepseek.com"><img src="https://img.shields.io/badge/DeepSeek_V4.1-4B6BFB?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Gemini_4-8E75B2?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://mistral.ai"><img src="https://img.shields.io/badge/Mistral_Large_4-FF6B00?style=for-the-badge&logoColor=white" /></a>
   <a href="https://llama.meta.com"><img src="https://img.shields.io/badge/Llama_4-0467DF?style=for-the-badge&logo=meta&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok_3-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://qwen.ai"><img src="https://img.shields.io/badge/Qwen_3-615CED?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok_4.7-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://qwen.ai"><img src="https://img.shields.io/badge/Qwen_3.8-615CED?style=for-the-badge&logoColor=white" /></a>
   <a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /></a>
   <a href="https://openrouter.ai"><img src="https://img.shields.io/badge/OpenRouter-333333?style=for-the-badge&logoColor=white" /></a>
@@ -85,8 +85,8 @@ class Erlandi:
     @property
     def stack(self):
         return {
-            "llms":     ["Claude 4.7", "GPT-4o", "DeepSeek V3", "Gemini 2.5",
-                         "Llama 4", "Mistral Large", "Grok 3", "Qwen 3"],
+            "llms":     ["Claude Opus 5.5", "GPT-6", "DeepSeek V4.1", "Gemini 4",
+                         "Llama 4", "Mistral Large 4", "Grok 4.7", "Qwen 3.8 Max"],
             "agents":   ["LangChain", "CrewAI", "AutoGen", "Claude Code SDK",
                          "Dify", "Flowise", "n8n", "MCP"],
             "backend":  ["FastAPI", "Node.js", "Go", "PostgreSQL", "Redis"],
